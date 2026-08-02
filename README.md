@@ -73,11 +73,11 @@ Always learning new technologies and improving my development skills.
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTHIKA0816&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
----
+
+<br>
+
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTHIKA0816&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRTHIKA0816&theme=tokyo-night&hide_border=true" />
 </p>
-
----
