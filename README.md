@@ -63,15 +63,16 @@ Always learning new technologies and improving my development skills.
 - Data Structures & Algorithms
 
 ---
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIRTHIKA0816&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRTHIKA0816&theme=dark" alt="GitHub Streak" width="49%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KIRTHIKA0816&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=KIRTHIKA0816&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRTHIKA0816&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -80,15 +81,8 @@ Always learning new technologies and improving my development skills.
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=KIRTHIKA0816&theme=darkhub" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KIRTHIKA0816&theme=nord&no-frame=true&no-bg=true&margin-w=12&column=4" alt="GitHub Trophies" />
 </p>
-
----
-### 💬 Quote
-
-> *"Learn. Build. Repeat."* 🚀
-
-> *"Code. Learn. Build. Repeat."* 🚀
