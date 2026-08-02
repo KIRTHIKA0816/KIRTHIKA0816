@@ -66,8 +66,8 @@ Always learning new technologies and improving my development skills.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirthikas22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirthikas22&theme=dark" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KIRTHIKA0816&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIRTHIKA0816&theme=dark" alt="GitHub Streak" width="49%" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Always learning new technologies and improving my development skills.
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=kirthikas22&theme=darkhub" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=KIRTHIKA0816&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
 ---
