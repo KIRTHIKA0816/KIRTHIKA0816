@@ -84,5 +84,5 @@ Always learning new technologies and improving my development skills.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KIRTHIKA0816&theme=nord&no-frame=true&no-bg=true&margin-w=12&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KIRTHIKA0816&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
